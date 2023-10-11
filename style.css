@@ -3159,7 +3159,7 @@ input[type=submit]:focus {
 >>> Home progress section  
 ----------------------------------------------------------------*/
 .home-progress-section {
-  background-image: url(assets/img/educator-img12.jpg);
+  background-image: url(assets/img/mm7.jpeg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3538,11 +3538,11 @@ input[type=submit]:focus {
   }
 }
 .home-fact-section .fact-right-inner-wrap .fact-inner-box .top-right-image {
-  background-image: url(assets/img/educator-img27.jpg);
+  background-image: url(./assets/img/cam1.jpg);
   background-position: center right;
 }
 .home-fact-section .fact-right-inner-wrap .fact-inner-box .bottom-left-image {
-  background-image: url(assets/img/educator-img28.jpg);
+  background-image: url(./assets/img/cam2.jpg);
   background-position: center left;
 }
 .home-fact-section .fact-right-inner-wrap .fact-inner-box .bottom-right-content {
