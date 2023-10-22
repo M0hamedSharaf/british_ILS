@@ -112,7 +112,7 @@ abbr[title] {
 code,
 kbd,
 samp {
-  font-family: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: monospace, monospace;
+  font-family:  monospace, monospace;
   font-size: 1em;
 }
 
@@ -145,7 +145,7 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: inherit;
+  font-family: inherit;
   font-size: 100%;
   line-height: 1.15;
   margin: 0;
@@ -6131,7 +6131,9 @@ input[type=submit]:focus {
 .iconbox-border .iconbox-content p {
   margin-bottom: 0;
 }
-
+.iconbox-content .mr-2{
+  margin-right: 4em;
+}
 /*--------------------------------------------------------------
 >>> career detail Page  
 ----------------------------------------------------------------*/
@@ -6212,7 +6214,7 @@ input[type=submit]:focus {
   font-size: 18px;
   font-weight: 700;
   line-height: 1.2;
-  font-family: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: "Mulish", sans-serif;
+  font-family:  "Mulish", sans-serif;
 }
 .career-detail-section .tab-container .tab-content {
   padding: 20px;
@@ -6259,13 +6261,13 @@ input[type=submit]:focus {
 .career-detail-section .sidebar .widget-bg ul li .list-txt {
   font-size: 15px;
   font-weight: 400;
-  font-family: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: "Poppins", sans-serif;
+  font-family:  "Poppins", sans-serif;
   color: #414141;
 }
 .career-detail-section .sidebar .widget-bg .accordion-content .card .card-header a {
   padding: 18px;
   font-size: 18px;
-  font-family: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: "Mulish", sans-serif;
+  font-family: "Mulish", sans-serif;
   font-weight: 700;
   line-height: 1.2;
 }
@@ -6281,7 +6283,7 @@ input[type=submit]:focus {
 }
 .career-detail-section .sidebar .widget-bg .or-style {
   color: #2A628F;
-  font-family: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: "Mulish", sans-serif;
+  font-family: "Mulish", sans-serif;
   font-size: 18px;
   font-weight: 700;
   padding-left: 35px;
@@ -9535,7 +9537,7 @@ product slider range for price css
   font-weight: 600;
   line-height: 1.2;
   vertical-align: middle;
-  font-family: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: 'Cairo', sans-serif;: "Mulish", sans-serif;
+  font-family: 'Cairo', sans-serif;
 }
 .checkout-field-wrap .form-group input:not([type=checkbox]):not([type=radio]):not([type=submit]) {
   width: 100%;
